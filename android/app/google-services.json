@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700211338293",
+    "project_id": "heart-disease-detection-69b45",
+    "storage_bucket": "heart-disease-detection-69b45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700211338293:android:a7746e27f0e09fa77be57c",
+        "android_client_info": {
+          "package_name": "com.example.heart_disease_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxSBwobHtoiVmDi15BEq9rgFjE-6xd320"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700211338293:android:58d2109abba48cc37be57c",
+        "android_client_info": {
+          "package_name": "com.example.heart_disea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxSBwobHtoiVmDi15BEq9rgFjE-6xd320"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
