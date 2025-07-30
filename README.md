@@ -13,4 +13,4 @@ then does some preprocessing operations on it then feeds it to the model and giv
 results
 
 
-![ddd.png](../../Desktop/ddd.png)
+
