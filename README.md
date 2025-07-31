@@ -12,5 +12,5 @@ The app activates the model, gives the user the option to upload/record a heartB
 then does some preprocessing operations on it then feeds it to the model and gives the user the 
 results
 
-![doc.jpg](https://github.com/abb08/heart_disease_detection/assets/profile.jpg?raw=true)
+![doc.jpg](assets/profile.jpg?raw=true)
 
